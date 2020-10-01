@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lebenslauf
+title: Über
 permalink: /about/
 ---
 
@@ -14,21 +14,19 @@ permalink: /about/
 <center>IT Umschuler bei Damago.GmbH</center>
 
 <center>Fachinformatikerin Anwendungsentwicklung</center>
-<center></center>
+<center>Deutsch zu schreiben ist für mich eine Herausforderung. Aus diesem Grund bin ich auf die Idee gekommen, dieses Blog zu erstellen, so dass ich mich daran gewöhne. So, es geht es nicht um etwas besonderes, sondern über Digne die ich schreiben möchte, um meine Deutsche zu verbessern. </center>
 
-### My hobbies
+<!-- ### My hobbies -->
 
-<center>Bloging, Reading, Biking, Dancing, Volleyball</center>
+<!-- <center>Bloging, Reading, Biking, Dancing, Volleyball</center> -->
 
-### Websites
-<center><a href="http://mehrapi.github.io">Mehrapi</a></center>
+<!-- ### Websites -->
+<!-- <center><a href="http://mehrapi.github.io">Mehrapi</a></center> -->
 
 
-### Life motto
+<!-- ### Life motto -->
 
-<center><i>Take the risks or lose the chance</i></center>	
-<center><a href="">- -</a></center>
+<!-- <center><i>Take the risks or lose the chance</i></center> -->	
+<!-- <center><a href="">- -</a></center> -->
 
-### Contact me
 
-<center> <a href="mailto:xxxx@gmail.com">xxx@gmail.com</a></center>
