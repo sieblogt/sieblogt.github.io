@@ -12,6 +12,7 @@ permalink: /about/
 
 
 <center>IT Umschuler bei Damago.GmbH</center>
+
 <center>Fachinformatikerin Anwendungsentwicklung</center>
 <center></center>
 
