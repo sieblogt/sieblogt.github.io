@@ -7,26 +7,26 @@ permalink: /about/
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Wizna/Wizna.github.io/master/images/profile.webp">
+<img src="https://avatars1.githubusercontent.com/u/72214216?s=400&u=608f1a4836a41017a17f8a3cc299f6afea33d827&v=4">
 </p>
 
 
-<center>I am a student. 我是一个学生</center>
-<center>分享知识，让世界更公平</center>
-<center>Hope my blogs could be helpful  ٩(˘◡˘)۶</center>
+<center>IT Trainee</center>
+<center></center>
+<center></center>
 
 ### My hobbies
 
-<center>Coding; Reading; Drawing; Football</center>
-### Websites 我喜欢的
-<center><a href="http://gen.lib.rus.ec/">Library Genesis</a></center>
-<center><a href="https://sci-hub.se/">Sci-Hub</a></center>
-<center><a href="http://ysmiao.cn/ycy/">- 媲美 -</a></center>
+<center>Coding; Reading; Biking, Volleyball</center>
+
+### Websites
+<center><a href="http://mehrapi.github.io">Library Genesis</a></center>
+
 
 ### Life motto
 
-<center><i>Dirty, Dangerous, Difficult</i></center>	
-<center><a href="https://en.wikipedia.org/wiki/Infinite_Challenge">- Infinite Challenge -</a></center>
+<center><i></i></center>	
+<center><a href="">- -</a></center>
 ### Contact me
 
-<center> <a href="mailto:huangruiming999@gmail.com">huangruiming999@gmail.com</a></center>
+<center> <a href="mailto:xxxx@gmail.com">xxx@gmail.com</a></center>
