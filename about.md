@@ -11,9 +11,9 @@ permalink: /about/
 </p> -->
 
 
-<center>IT Umschuler bei Damago.GmbH</center>
+<!-- <center>IT Umschuler bei Damago.GmbH</center> -->
 
-<center>Fachinformatikerin Anwendungsentwicklung</center>
+<!-- <center>Fachinformatikerin Anwendungsentwicklung</center> -->
 <center>Deutsch zu schreiben ist für mich eine Herausforderung. Aus diesem Grund bin ich auf die Idee gekommen, dieses Blog zu erstellen, so dass ich mich daran gewöhne. So, es geht es nicht um etwas besonderes, sondern über Digne die ich schreiben möchte, um meine Deutsche zu verbessern. </center>
 
 <!-- ### My hobbies -->
