@@ -7,7 +7,7 @@ permalink: /about/
 
 
 <p align="center">
-<img src="https://avatars1.githubusercontent.com/u/72214216?s=400&u=608f1a4836a41017a17f8a3cc299f6afea33d827&v=4">
+<img src="">
 </p>
 
 
