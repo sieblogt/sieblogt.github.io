@@ -20,7 +20,7 @@ permalink: /about/
 <center>Coding; Reading; Biking, Volleyball</center>
 
 ### Websites
-<center><a href="http://mehrapi.github.io">Library Genesis</a></center>
+<center><a href="http://mehrapi.github.io">Mehrapi</a></center>
 
 
 ### Life motto
