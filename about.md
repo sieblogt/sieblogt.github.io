@@ -6,9 +6,9 @@ permalink: /about/
 
 
 
-<!-- <p align="center">
-<img src="">
-</p> -->
+<p align="center">
+<img src="https://avatars0.githubusercontent.com/u/72214216?s=400&u=06da18414a334c7527010b46cdf7f0fe7945f894&v=4">
+</p>
 
 
 <center>IT Trainee</center>
