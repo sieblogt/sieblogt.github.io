@@ -11,8 +11,8 @@ permalink: /about/
 </p>
 
 
-<center>IT Trainee</center>
-<center></center>
+<center>IT Umschuler bei Damago.GmbH</center>
+<center>Fachinformatikerin Anwendungsentwicklung</center>
 <center></center>
 
 ### My hobbies
@@ -25,8 +25,9 @@ permalink: /about/
 
 ### Life motto
 
-<center><i></i></center>	
+<center><i>Take the risks or lose the chance</i></center>	
 <center><a href="">- -</a></center>
+
 ### Contact me
 
 <center> <a href="mailto:xxxx@gmail.com">xxx@gmail.com</a></center>
