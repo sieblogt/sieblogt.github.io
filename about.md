@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: Lebenslauf
 permalink: /about/
 ---
 
 
 
-<p align="center">
+<!-- <p align="center">
 <img src="">
-</p>
+</p> -->
 
 
 <center>IT Trainee</center>
