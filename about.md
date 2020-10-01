@@ -17,7 +17,7 @@ permalink: /about/
 
 ### My hobbies
 
-<center>Coding; Reading; Biking, Volleyball</center>
+<center>Bloging, Reading, Biking, Dancing, Volleyball</center>
 
 ### Websites
 <center><a href="http://mehrapi.github.io">Mehrapi</a></center>
