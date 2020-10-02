@@ -23,7 +23,7 @@ permalink: /about/
 <!-- <center>Bloging, Reading, Biking, Dancing, Volleyball</center> -->
 
 <!-- ### Websites -->
-<center><a href="http://mehrapi.github.io">Zurück zur Haupt-Webseite</a></center>
+<center><a href=""></a></center>
 
 
 <!-- ### Life motto -->
