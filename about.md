@@ -14,7 +14,7 @@ permalink: /about/
 <!-- <center>IT Umschuler bei Damago.GmbH</center> -->
 
 # <center>Über</center> 
-<center>Deutsch zu schreiben ist für mich eine Herausforderung. Aus diesem Grund bin ich auf die Idee gekommen, dieses Blog zu erstellen, so dass ich mich daran gewöhne. So, auf diesem Blog wird keine tiefgründige Reflektion geschrieben, sondern Digne die ich schreiben möchte, um meine Deutsche zu verbessern. Selbstverätndlich, Deutsch Grammatikfehler sind auch dabei, bis ich sie merke und mich selbstkorrigiere.</center>
+<center>Deutsch zu schreiben ist für mich eine Herausforderung. Aus diesem Grund bin ich auf die Idee gekommen, dieses Blog zu erstellen, so dass ich mich daran gewöhne. So, auf diesem Blog wird keine tiefgründige Reflektion geschrieben, sondern Digne, über denen ich schreiben möchte, um meine Deutsche zu verbessern. Selbstverätndlich, Deutsch Grammatikfehler sind auch dabei, bis ich sie merke und mich selbstkorrigiere.</center>
 
 <!-- <center><a href="https:mehrapi.github.io">Zurück zur Haupt-Webseite</a></center> -->
 
