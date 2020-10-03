@@ -35,7 +35,7 @@ permalink: /about/
 
 <center><em>Jede neue Herausforderung
 ist ein Tor zu neuen Erfahrungen.<em><br>
-© Ernst Ferstl (*1955), österreichischer Dichter</center><br>
+© Ernst Ferstl (*1955), österreichischer Dichter<br></center>
 
 
 <center><a href="http://mehrapi.github.io/">Zurück</a></center>
