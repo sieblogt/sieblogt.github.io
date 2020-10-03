@@ -1,4 +1,4 @@
-Kurzlich habe ich endlich eine Galerie auf meiner Jekyll Website geschafft, nach ich mehrere versuche mit verschiedene Plugins gemacht habe. Mit die meisten Fotogalerie Plugins war ich nicht zufrieden, außerdem ich fand sie kompliziert zu erstellen. Zum Glück gibt es einen einfacher Weg, ohne Plugins, der Jekyll Codex zur verfugung stellt. 
+Kurzlich habe ich endlich eine Galerie auf meiner Jekyll Website geschafft, nach ich mehrere versuche mit verschiedene Plugins gemacht habe. Mit die meisten Fotogalerie Plugins war ich nicht zufrieden, außerdem ich fand sie kompliziert zu erstellen. Zum Glück gibt es einen einfacher Weg ohne Plugins, der [Jekyll Codex](https://jekyllcodex.org/without-plugin/image-gallery/) zur verfugung stellt. 
 
 
 
