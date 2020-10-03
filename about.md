@@ -28,15 +28,16 @@ permalink: /about/
 
 <!-- ### Life motto -->
 
-<!-- <center><i>Take the risks or lose the chance</i></center> -->	
+
 <!-- <center><a href="">- -</a></center> -->
 <center><a href="http://mehrapi.github.io/">Zurück</a></center>
 
 
-<center><a href="https://sci-hub.se/">Sci-Hub</a></center>
-<center><a href="http://ysmiao.cn/ycy/">- 媲美 -</a></center>
 
-### Life motto
+<center>Jede neue Herausforderung
+ist ein Tor zu neuen Erfahrungen.
+© Ernst Ferstl (*1955), österreichischer Lehrer, Dichter und Aphoristiker</center>
+
 
 <center><i>Dirty, Dangerous, Difficult</i></center>	
 <center><a href="https://en.wikipedia.org/wiki/Infinite_Challenge">- Infinite Challenge -</a></center>
