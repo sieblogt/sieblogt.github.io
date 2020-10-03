@@ -20,22 +20,24 @@ permalink: /about/
 
 <!-- ### My hobbies -->
 
-<!-- <center>Bloging, Reading, Biking, Dancing, Volleyball</center> -->
+
 
 <!-- ### Websites -->
-<center><a href=""></a></center>
+
 
 
 <!-- ### Life motto -->
 
 
 <!-- <center><a href="">- -</a></center> -->
-<center><a href="http://mehrapi.github.io/">Zurück</a></center>
 
 
 
 <center>Jede neue Herausforderung
 ist ein Tor zu neuen Erfahrungen.
-© Ernst Ferstl (*1955), österreichischer Lehrer, Dichter und Aphoristiker</center>
+© Ernst Ferstl (*1955), österreichischer Dichter</center>
+
+
+<center><a href="http://mehrapi.github.io/">Zurück</a></center>
 
 
