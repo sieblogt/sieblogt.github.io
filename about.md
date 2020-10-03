@@ -39,6 +39,3 @@ ist ein Tor zu neuen Erfahrungen.
 © Ernst Ferstl (*1955), österreichischer Lehrer, Dichter und Aphoristiker</center>
 
 
-<center><i>Dirty, Dangerous, Difficult</i></center>	
-<center><a href="https://en.wikipedia.org/wiki/Infinite_Challenge">- Infinite Challenge -</a></center>
-
