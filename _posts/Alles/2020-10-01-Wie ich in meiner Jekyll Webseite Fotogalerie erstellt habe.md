@@ -4,14 +4,16 @@ Wie funktioniert es?
 - Zuerst muss man [Lightbox](https://jekyllcodex.org/without-plugin/lightbox/) auf seiner Jekyll Webseite installieren. 
 Um es zu installieren, herunterladen Sie die Datein [lightbox.js](https://jekyllcodex.org/without-plugin/lightbox/) und [lightbox.css](https://jekyllcodex.org/without-plugin/lightbox/), dan speicheren Sie sie in Ihren assets/js und assets/css Ornder. Dannach auf Ihrem `footer.html` oder am unteren Ende auf Ihrem `Layout` mussen Sie auch das Script unten addieren. Sie können auch es [hier](https://jekyllcodex.org/without-plugin/lightbox/) finden. In meinem Fall die footer.html Datei war in \_includes Ornder. 
 
-`
+
+```
 ...
 <script type="text/javascript" src="/js/lightbox.js"></script>
 <link rel="stylesheet" href="/css/lightbox.css">
 </body>
 </html>
 
- `
+ ```
+ 
 - Dannach, um die Fotogalerie zu erstellen, brauchen Sie die Datei `image-gallery.html` zu herunterladen, die finden Sie auf diesem [Jekyll Codex Webseite]( https://jekyllcodex.org/without-plugin/image-gallery/). Speichern Sie diese Datei in Ihrem \_includes Ordner.  
 
 
