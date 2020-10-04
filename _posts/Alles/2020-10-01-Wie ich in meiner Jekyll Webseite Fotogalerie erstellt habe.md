@@ -4,8 +4,8 @@ Kurzlich habe ich endlich eine Fotogalerie auf meiner Jekyll Website geschafft, 
 Wie funktioniert es? Zwei Etappen. 
 
 ### Lightbox in Ihrem Projekt installieren
-- Zuerst muss man [Lightbox](https://jekyllcodex.org/without-plugin/lightbox/) auf seiner Jekyll Webseite installieren. 
-Um es zu installieren, mussen Sie zwei Datein von [Jekyll Codex Ligthbox](https://jekyllcodex.org/without-plugin/lightbox/) Seite herunterladen,  das [lightbox.js](https://jekyllcodex.org/without-plugin/lightbox/) und das [lightbox.css](https://jekyllcodex.org/without-plugin/lightbox/). Dann, speicheren Sie diese Datein in Ihren assets/js und assets/css Ornder. 
+- Zuerst mussen Sie [Lightbox](https://jekyllcodex.org/without-plugin/lightbox/) auf Ihrem Jekyll Webseite installieren, wenn es auf Ihrem Projekt noch nicht installiert ist. 
+Um es zu installieren, mussen Sie zwei Datein von [Jekyll Codex Ligthbox](https://jekyllcodex.org/without-plugin/lightbox/) Seite herunterladen,  das [lightbox.js](https://jekyllcodex.org/without-plugin/lightbox/) und das [lightbox.css](https://jekyllcodex.org/without-plugin/lightbox/). Dann, speicheren Sie diese Datein in Ihren `assets/js` und `assets/css` Ornder. 
 
 - Anschließend, auf Ihrem `footer.html` oder am unteren Ende auf Ihrem `Layout` mussen Sie auch das Script unten addieren. Sie können auch es [hier](https://jekyllcodex.org/without-plugin/lightbox/) finden. In meinem Fall die footer.html Datei war in `_includes` Ornder. 
 ![Ligthbox](https://user-images.githubusercontent.com/72214216/95009158-19698d00-0620-11eb-94e9-174ba1565b38.PNG)
