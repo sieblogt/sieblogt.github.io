@@ -3,7 +3,7 @@ Kurzlich habe ich endlich eine Fotogalerie auf meiner Jekyll Website geschafft, 
 
 Wie funktioniert es? Zwei Etappen. 
 
-### Lightbox in Ihrem Projekt installieren
+### Lightbox auf Ihrem Projekt installieren
 - Zuerst mussen Sie [Lightbox](https://jekyllcodex.org/without-plugin/lightbox/) auf Ihrem Jekyll Webseite installieren, wenn es auf Ihrem Projekt noch nicht installiert ist. 
 Um es zu installieren, mussen Sie zwei Datein von [Jekyll Codex Ligthbox](https://jekyllcodex.org/without-plugin/lightbox/) Seite herunterladen,  das [lightbox.js](https://jekyllcodex.org/without-plugin/lightbox/) und das [lightbox.css](https://jekyllcodex.org/without-plugin/lightbox/). Dann, speicheren Sie diese Datein in Ihren `assets/js` und `assets/css` Ornder. 
 
@@ -11,7 +11,7 @@ Um es zu installieren, mussen Sie zwei Datein von [Jekyll Codex Ligthbox](https:
 ![Ligthbox](https://user-images.githubusercontent.com/72214216/95009158-19698d00-0620-11eb-94e9-174ba1565b38.PNG)
 
 
-### Fotogalerie Script erstellen
+### Fotogalerie Script addieren
 - Um die Fotogalerie zu erstellen, brauchen Sie die Datei `image-gallery.html` zu herunterladen, die finden Sie auf diesem [Jekyll Codex Webseite]( https://jekyllcodex.org/without-plugin/image-gallery/). Speichern Sie diese Datei in Ihrem `_includes` Ordner.  
 
 
