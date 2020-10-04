@@ -16,7 +16,7 @@ Um es zu installieren, mussen Sie zwei Datein von [Jekyll Codex Ligthbox](https:
 
 
 
-- Schließlich, wo Sie die Fotogalerie zeigen wollen, auf Ihrem `.html` Datei in Ihrem `\_includes or \_posts` Ordner, addieren Sie das Script unten. Das Script finden Sie auch [hier]( https://jekyllcodex.org/without-plugin/image-gallery/):
+- Schließlich, wo Sie die Fotogalerie zeigen wollen, auf Ihrem `.html` Datei in Ihrem `\_posts` Ordner, addieren Sie das Script unten. Das Script finden Sie auch [hier]( https://jekyllcodex.org/without-plugin/image-gallery/):
 ![imgg](https://user-images.githubusercontent.com/72214216/95009168-2e462080-0620-11eb-8526-4f8bf51a05b7.PNG)
 
 
