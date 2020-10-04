@@ -1,5 +1,5 @@
 ---
-comment_issue_id: #1
+comment_issue_id: 1
 title: Wie ich in meine Jekyll Website Fotogalerie erstellt habe
 ---
 
