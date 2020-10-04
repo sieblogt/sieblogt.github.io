@@ -25,4 +25,4 @@ So sieht es meine Fotogalerie aus.
 ![Fotogalerie](https://user-images.githubusercontent.com/72214216/94930132-46a22800-04c6-11eb-95c9-6c86aba54588.PNG)
 
 
-<center><a href="http://mehrapi.github.io/">Zurück zur: Hauptseite </a></center>||<center><a href="https://sieblogt.github.io/"> Blog</a></center>
+<center><a href="http://mehrapi.github.io/">Zurück zur Hauptseite</a></center>
