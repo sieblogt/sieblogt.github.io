@@ -94,6 +94,8 @@ collections:
     output: true
     permalink: /posts/:path/
 
+markdown: kramdown
+
 # markdown: CommonMarkGhPages
 
 # commonmark:
