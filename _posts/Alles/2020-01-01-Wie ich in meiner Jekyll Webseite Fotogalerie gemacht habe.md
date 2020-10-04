@@ -14,7 +14,7 @@ Um Lightbox zu installieren, herunterladen Sie die Datein [lightbox.js](https://
 
 - Dannach um die Fotogalerie zu erstellen, brauchen Sie die Datei `image-gallery.html` zu herunterladen, die finden Sie auf diesem [Jekyll Codex Seite]( https://jekyllcodex.org/without-plugin/image-gallery/). Speichern Sie diese Datei in Ihrem \_includes Ordner.  Schließlich, auf Ihrem Webseite, wo Sie die Fotogalerie zeigen wollen, addieren Sie dieses Script:
 
-`{% include image-gallery.html folder="/uploads/album" %}`.
+`{% include image-gallery.html folder="/uploads/album" %}`
 
 So sieht es meine Fotogalerie aus.
 ![Fotogalerie](https://user-images.githubusercontent.com/72214216/94930132-46a22800-04c6-11eb-95c9-6c86aba54588.PNG)
