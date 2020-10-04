@@ -2,7 +2,7 @@ Kurzlich habe ich endlich eine Galerie auf meiner Jekyll Website geschafft, nach
 
 Wie funktioniert es?
 - Zuerst muss man [Lightbox](https://jekyllcodex.org/without-plugin/lightbox/) auf seiner Jekyll Webseite installieren. 
-Um Lightbox zu installieren, herunterladen Sie die Datein [lightbox.js](https://jekyllcodex.org/without-plugin/lightbox/) und [lightbox.css](https://jekyllcodex.org/without-plugin/lightbox/), dan speicheren Sie sie in Ihren assets/js und assets/css Ornder. Dannach auf Ihrem `footer.html` oder am unteren Ende auf Ihrem `Layout` mussen Sie auch das Script unten addieren. Sie können auch es [hier](https://jekyllcodex.org/without-plugin/lightbox/) finden. In meinem Fall die footer.html Datei war in \_includes Ornder. 
+Um es zu installieren, herunterladen Sie die Datein [lightbox.js](https://jekyllcodex.org/without-plugin/lightbox/) und [lightbox.css](https://jekyllcodex.org/without-plugin/lightbox/), dan speicheren Sie sie in Ihren assets/js und assets/css Ornder. Dannach auf Ihrem `footer.html` oder am unteren Ende auf Ihrem `Layout` mussen Sie auch das Script unten addieren. Sie können auch es [hier](https://jekyllcodex.org/without-plugin/lightbox/) finden. In meinem Fall die footer.html Datei war in \_includes Ornder. 
 
 `
 ...
