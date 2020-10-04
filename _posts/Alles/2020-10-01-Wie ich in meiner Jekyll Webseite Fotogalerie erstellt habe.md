@@ -1,5 +1,5 @@
 ---
-comment_issue_id: 1
+comment_issue_id: #1
 ---
 
 Kurzlich habe ich endlich eine Fotogalerie auf meiner Jekyll Website geschafft, nach ich mehreren Versuchen mit verschiedenen Plugins gemacht habe. Mit die meisten Plugins war ich nicht zufrieden, außerdem ich fand sie kompliziert zu erstellen. Zum Glück gibt es einen einfacher Weg ohne Plugins, der [Jekyll Codex](https://jekyllcodex.org/without-plugin/image-gallery/) zur verfugung stellt. 
