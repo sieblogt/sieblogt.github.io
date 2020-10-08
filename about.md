@@ -12,7 +12,7 @@ permalink: /about/
 
 
 # <center>Über</center> 
-<center>Deutsch zu schreiben ist für mich eine Herausforderung. Aus diesem Grund bin ich auf die Idee gekommen, dieses Blog zu erstellen, so dass ich mich daran gewöhne. So, auf diesem Blog wird keine tiefgründige Reflektion geschrieben, sondern Digne, über denen ich schreiben möchte, um meine Deutsche zu verbessern. Selbstverätndlich, Deutsch Grammatikfehler sind auch dabei, bis ich sie merke und mich selbstkorrigiere.</center><br><br>
+<center>Auf Deutsch zu schreiben ist für mich eine Herausforderung. Aus diesem Grund bin ich auf die Idee gekommen, dieses Blog zu erstellen, so dass ich mich daran gewöhne. So, auf diesem Blog wird keine tiefgründige Reflektion geschrieben, sondern Digne, über denen ich schreiben möchte, um meine Deutsche zu verbessern. Selbstverätndlich, Deutsch Grammatikfehler sind auch dabei, bis ich sie merke und mich selbstkorrigiere.</center><br><br>
 
 
 
