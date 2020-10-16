@@ -2,4 +2,4 @@
 title: Meine Erfahrung mit Open Source
 ---
 
-![0_WzNhLfZujPmSFE1Q](https://user-images.githubusercontent.com/72214216/96204955-d5528280-0f65-11eb-91f7-0680efbf1431.png)
+<img width="670" alt="hacktoberfest2020" src="https://user-images.githubusercontent.com/72214216/96206334-f4064880-0f68-11eb-9034-9bd65e0f7663.png">
