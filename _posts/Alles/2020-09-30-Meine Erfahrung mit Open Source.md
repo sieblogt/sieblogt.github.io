@@ -2,4 +2,4 @@
 title: Meine Erfahrung mit Open Source
 ---
 
-![open-source-software](https://user-images.githubusercontent.com/72214216/94879760-74a15100-0461-11eb-8335-f17152586e2e.png)
+![0_WzNhLfZujPmSFE1Q](https://user-images.githubusercontent.com/72214216/96204955-d5528280-0f65-11eb-91f7-0680efbf1431.png)
