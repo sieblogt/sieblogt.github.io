@@ -1,3 +1,9 @@
 
-# Wilkommen auf meinem [Blog](https://sieblogt.github.io).
+# Hallo 👋 und Wilkommen!
+
+
+👉 Mein [Blog](https://sieblogt.github.io).
+
+
+Vielen Dank für Ihren Besuch 🙏
 
