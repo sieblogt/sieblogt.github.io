@@ -21,6 +21,6 @@ Es gibt verschiedene Gründe, warum eine Pull-Request ist nicht akzeptiert. Zum 
 <center><img alt="pr2" src="https://user-images.githubusercontent.com/72214216/97279539-67e30380-183b-11eb-8a62-3cd26ef96b03.PNG"></center>
 <br>
 
-Nach mehrere Versuche habe ich es endlich geschafft, vier von meine Pull-Requests sind akzeptiert und merged. Von dieses Jahr Hacktoberfest habe ich sehr viel gelernt, ich habe auch gemerkt, dass an ein Open Source Projekt zu teilnehmen ist sehr hilfereich eigene Programmierfähigkeiten zu testen und verbessern.
+Nach mehrere Versuche habe ich es endlich geschafft, vier von meine Pull-Requests sind akzeptiert und merged. Von dieses Jahr Hacktoberfest habe ich sehr viel gelernt, außerdem habe ich auch meine Programmierfähigkeiten getestet und verbessert.
 
  
