@@ -8,7 +8,7 @@ Um mit das Fest zu partipizieren,  muss man ein Github Konto haben, dannach vier
 die mit dem Label "Hackoberfest" markiert, senden. Diese Pull-Requests mussen valid sein und nur im Oktober geschickt. 
 
 <br>
-<img width ="400" alt="hacktoberfest2020" src="https://user-images.githubusercontent.com/72214216/97263847-124f2c80-1824-11eb-9464-0269ece114ea.png"><img width="400" alt="pr2" src="https://user-images.githubusercontent.com/72214216/97266980-b1c2ee00-1829-11eb-8823-78821ba0ac42.PNG">
+<center><img width ="600" alt="hacktoberfest2020" src="https://user-images.githubusercontent.com/72214216/97263847-124f2c80-1824-11eb-9464-0269ece114ea.png"></center>
 
 <br>
 Am anfang habe ich keine Anhung, wie man an einem Open Source Projekt teilnehmen, was Pull-Request und Issue sind. 
@@ -28,5 +28,5 @@ Es gibt verschiedene Gründe, warum eine Pull-Request ist nicht akzeptiert oder 
 Nach mehrere Versuche habe ich es geschafft, vier von meine Pull-Requests sind akzeptiert und "Merged". Von dieses Jahr Hacktoberfest habe ich sehr viel gelernt und viel Spaß gehabt, und ich bin bereit an Open Source Projekte zu teilnehmen.
 
 <br>
-<center></center> 
+<center><img width="400" alt="pr2" src="https://user-images.githubusercontent.com/72214216/97266980-b1c2ee00-1829-11eb-8823-78821ba0ac42.PNG"></center> 
  
