@@ -27,4 +27,4 @@ Von dieses Jahr Hacktoberfest habe ich sehr viel gelernt und viel Spaß gehabt, 
 
 <br>
 
-![Closed PR](https://user-images.githubusercontent.com/72214216/97266878-86400380-1829-11eb-86d9-fd94d3296d40.PNG)
+![pr2](https://user-images.githubusercontent.com/72214216/97266980-b1c2ee00-1829-11eb-8823-78821ba0ac42.PNG)
