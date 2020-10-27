@@ -26,6 +26,6 @@ Es gibt verschiedene Gründe, warum eine Pull-Request ist nicht akzeptiert. Zum 
 Von dieses Jahr Hacktoberfest habe ich sehr viel gelernt und viel Spaß gehabt, und bin bereit an Open Source Projekt zu teilnehmen. Ich habe geschaft, vier von meine Pull-Request  sind "Merged".
 
 <br>
-
-![pr2](https://user-images.githubusercontent.com/72214216/97266980-b1c2ee00-1829-11eb-8823-78821ba0ac42.PNG)
+<center>
+![pr2](https://user-images.githubusercontent.com/72214216/97266980-b1c2ee00-1829-11eb-8823-78821ba0ac42.PNG) </center>
  
