@@ -1,5 +1,5 @@
 ---
-title: Hacktoberfest 2020, meine erste erfahrung mit Open Source
+title: Hacktoberfest 2020, meine erste Erfahrung mit Open Source
 ---
 
 Jedes Jahr im Oktober findet das Hacktoberfest statt.
