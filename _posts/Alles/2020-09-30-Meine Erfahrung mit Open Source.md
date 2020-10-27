@@ -13,10 +13,9 @@ Aber auf der HacktoberFest Webseite gibt es eine sehr detailiert Erklarung über
 die hat mir sehr viel geholfen, um alles zu verstehen und um zu finden wo ich anfangen kann.
 
 ### Issues und Pull-Request
-Ich habe mit einfache Issue angefangen. Issues sind die Aufgaben, die ein Repository bietet, um mit diesem Projekt zu teilnehmen. Es gibt weibseite, wo sie aufgelisted und klar gekennzeichnet sind und dort kann man über eine lesen und wählen. Die meisten zeit habe [issuehub.io](http://issuehub.io) benutzt, auf diesem Webseite einfaches Issues sind mit dem Label "good first issue", "beginner" oder "first timer only" markiert. 
-
-![Issues2](https://user-images.githubusercontent.com/72214216/97262416-1299f880-1821-11eb-9aab-13690eb7fc58.PNG)
+Ich habe mit einfache Issue angefangen. Issues sind die Aufgaben, die ein Repository bietet, um mit diesem Projekt zu teilnehmen. Es gibt weibseite, wo sie aufgelisted und klar gekennzeichnet sind und dort kann man über eine lesen und wählen. Die meisten zeit habe [issuehub.io](http://issuehub.io) benutzt, auf diesem Webseite einfaches Issues sind mit dem Label "good first issue", "beginner" oder "first timer only" markiert.
 
 ### Merged und Closed Pull-Request
 Ich habe an mehrere repository teilgenohmen, aber nicht alle meine PR war gut. Deshalb, es gab für mich mehr "Closed" als "Merged" Pull-Request, aber Ich habe viel gelernt.
-
+![Closed PR1](https://user-images.githubusercontent.com/72214216/97262980-46c1e900-1822-11eb-9580-b769a9acc404.PNG) 
+![Mergedk](https://user-images.githubusercontent.com/72214216/97263120-930d2900-1822-11eb-915f-bd9d0edcc373.PNG)
