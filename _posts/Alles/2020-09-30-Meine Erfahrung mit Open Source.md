@@ -17,5 +17,7 @@ Ich habe mit einfache Issue angefangen. Issues sind die Aufgaben, die ein Reposi
 
 ### Merged und Closed Pull-Request
 Ich habe an mehrere repository teilgenohmen, aber nicht alle meine PR war gut. Deshalb, es gab für mich mehr "Closed" als "Merged" Pull-Request, aber Ich habe viel gelernt.
-![Closed PR1](https://user-images.githubusercontent.com/72214216/97262980-46c1e900-1822-11eb-9580-b769a9acc404.PNG) 
-![Mergedk](https://user-images.githubusercontent.com/72214216/97263120-930d2900-1822-11eb-915f-bd9d0edcc373.PNG)
+
+
+![Closed PR](https://user-images.githubusercontent.com/72214216/97263387-2a727c00-1823-11eb-9490-bdda149f9c4b.PNG)
+![Mergedk](https://user-images.githubusercontent.com/72214216/97263325-0747cc80-1823-11eb-8e33-80c1337c8c0d.PNG)
