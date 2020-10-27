@@ -15,10 +15,9 @@ Aber das HacktoberFest ist öffen sowohl für die Anfänger als auch für ausgew
 <center><img width="500" alt="hactoberfest2020" src="https://user-images.githubusercontent.com/72214216/97290532-f3af5c80-1848-11eb-8fec-d1c0753d8109.png"> </center>
 
 <br>
-#### Issues 
+#### Issues, merged und closed Pull-Requests
 Ich habe mit einfache Issue angefangen. Issues sind die Aufgaben, die ein Repository bietet, um mit diesem Projekt zu teilnehmen. Es gibt Webseite, wo sie aufgelistet und klar gekennzeichnet sind, und dort kann man über eine lesen und wählen. Die meiste Zeit habe ich [issuehub.io](http://issuehub.io) benutzt, ich finde diese Webseite sehr gut organisiert und die Suche nach eine Aufgabe ist einfach, zum Beispisel einfache Projekte sind mit "good first issue", "beginner" oder "first timer only" markiert.
 
-#### Merged und Closed Pull-Requests
 Ich habe an mehrere Repository teilgenohmen, aber nicht alle meine Pull-Request war gut. Deshalb, gab es für mich mehr "Closed" als "Merged" Pull-Request.
 Es gibt verschiedene Gründe, warum eine Pull-Request ist nicht akzeptiert oder "Closed". Zum Beispiel, man hat die Issue nicht richtig verstanden, und die vorgeschlagt Lösung ist nicht was der Projektinhaber erwartet, oder manchmal andere Leute hat die Issue schon gearbeitet und ein Pull-Request schon geschikt, infolgendessen wird deine Pull-Request nicht akzeptiert. 
 <br><br>
