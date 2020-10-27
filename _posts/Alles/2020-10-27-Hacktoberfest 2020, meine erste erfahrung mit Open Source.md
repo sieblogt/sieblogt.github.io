@@ -21,9 +21,11 @@ Ich habe mit einfache Issue angefangen. Issues sind die Aufgaben, die ein Reposi
 #### Merged und Closed Pull-Requests
 Ich habe an mehrere Repository teilgenohmen, aber nicht alle meine Pull-Request war gut. Deshalb, gab es für mich mehr "Closed" als "Merged" Pull-Request.
 Es gibt verschiedene Gründe, warum eine Pull-Request ist nicht akzeptiert oder "Closed". Zum Beispiel, man hat die Issue nicht richtig verstanden, und die vorgeschlagt Lösung ist nicht was der Projektinhaber erwartet, oder manchmal andere Leute hat die Issue schon gearbeitet und ein Pull-Request schon geschikt, infolgendessen wird deine Pull-Request nicht akzeptiert. 
+<center><img width = "450" alt="pr2" src="https://user-images.githubusercontent.com/72214216/97278510-2b62d800-183a-11eb-8970-264fd65e4617.PNG"></center> 
+
 
 Nach mehrere Versuche habe ich es geschafft, vier von meine Pull-Requests sind akzeptiert und "Merged". Von dieses Jahr Hacktoberfest habe ich sehr viel gelernt und viel Spaß gehabt, und ich bin bereit an Open Source Projekte zu teilnehmen.
 
 <br>
-<center><img widtH = "429" alt="pr2" src="https://user-images.githubusercontent.com/72214216/97266980-b1c2ee00-1829-11eb-8823-78821ba0ac42.PNG"></center> 
+<center><img width = "429" alt="pr2" src="https://user-images.githubusercontent.com/72214216/97266980-b1c2ee00-1829-11eb-8823-78821ba0ac42.PNG"></center> 
  
