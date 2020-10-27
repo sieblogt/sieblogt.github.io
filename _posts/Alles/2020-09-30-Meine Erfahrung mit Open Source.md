@@ -8,7 +8,7 @@ Um mit das Fest zu partipizieren,  muss man ein Github Konto haben, dannach vier
 die mit dem Label "Hackoberfest" markiert, senden. Diese Pull-Request mussen valid sein und im Oktober geschickt. 
 
 
-<img width="429" alt="hacktoberfest2020" src="https://user-images.githubusercontent.com/72214216/97263847-124f2c80-1824-11eb-9464-0269ece114ea.png">
+<center><img width="429" alt="hacktoberfest2020" src="https://user-images.githubusercontent.com/72214216/97263847-124f2c80-1824-11eb-9464-0269ece114ea.png"></center>
 
 
 Am anfang habe ich keine Anhung, wie man an einem Open Source Projekt teilnehmen kann, was Pull-Request und Issue sind. 
