@@ -3,12 +3,12 @@ title: Hacktoberfest 2020, meine erste Erfahrung mit Open Source
 ---
 
 Jedes Jahr im Oktober findet das Hacktoberfest statt.
-Es ist eine monatlang Feir für Open Source, das von [Digital Ocean](https://hacktoberfest.digitalocean.com) organisiert. 
+Es ist eine monatlange Feir für Open Source, das von [Digital Ocean](https://hacktoberfest.digitalocean.com) organisiert. 
 Um mit das Fest zu partipizieren,  muss man ein Github Konto haben, dannach vier Pull-Request von ein Repository auf Github, 
-die mit dem Label "Hackoberfest" markiert, senden. Diese Pull-Requests mussen valid sein und im Oktober geschickt. 
+die mit dem Label "Hackoberfest" markiert, senden. Diese Pull-Requests mussen valid sein und nur im Oktober geschickt. 
 
 <br>
-<center><img alt="hacktoberfest2020" src="https://user-images.githubusercontent.com/72214216/97263847-124f2c80-1824-11eb-9464-0269ece114ea.png"></center>
+<center><img width ="500" alt="hacktoberfest2020" src="https://user-images.githubusercontent.com/72214216/97263847-124f2c80-1824-11eb-9464-0269ece114ea.png"></center>
 
 <br>
 Am anfang habe ich keine Anhung, wie man an einem Open Source Projekt teilnehmen, was Pull-Request und Issue sind. 
